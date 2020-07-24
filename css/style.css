@@ -1,0 +1,21 @@
+.header, .hero, .body, .bar, .footer {
+	background: #FEADCE;
+	margin-bottom: 5px;
+}
+.box {
+	min-height: 100px;
+	background: #98D7E9;
+	margin:5px 0;
+	font-size: 30px;
+	text-align: center;
+	border: 5px solid green;
+}
+.n_box {
+	border: 5px solid green;
+}
+.box_2 {
+	border: 5px solid #BAE61F;
+}
+.red {
+	background: red;
+}
